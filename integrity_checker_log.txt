@@ -3,3 +3,4 @@ Added SHA256 hash generation support - 05/05/2024 11:15:25
 Added suspicious file modification alerts - 05/05/2024 18:06:42
 Enhanced event logging module - 05/05/2024 19:04:38
 Added integrity scan summaries - 05/01/2024 18:39:15
+Added suspicious file modification alerts - 05/01/2024 10:15:23
