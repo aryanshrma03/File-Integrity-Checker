@@ -1,1 +1,2 @@
 Improved file event handling - 05/05/2024 18:28:13
+Added SHA256 hash generation support - 05/05/2024 11:15:25
