@@ -12,3 +12,4 @@ Added suspicious file modification alerts - 05/03/2024 13:57:25
 Improved hash comparison engine - 05/03/2024 12:01:09
 Improved hash comparison engine - 05/09/2024 15:48:06
 Added recursive directory scanning - 05/09/2024 15:28:46
+Enhanced event logging module - 05/09/2024 18:45:20
