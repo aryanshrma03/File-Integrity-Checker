@@ -14,3 +14,4 @@ Improved hash comparison engine - 05/09/2024 15:48:06
 Added recursive directory scanning - 05/09/2024 15:28:46
 Enhanced event logging module - 05/09/2024 18:45:20
 Improved file event handling - 05/13/2024 16:46:17
+Enhanced monitoring performance - 05/13/2024 09:00:57
