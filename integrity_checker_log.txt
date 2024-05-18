@@ -24,3 +24,4 @@ Added backup integrity verification - 05/19/2024 20:12:42
 Added integrity scan summaries - 05/20/2024 16:19:09
 Improved scanner initialization - 05/20/2024 18:56:55
 Improved change detection sensitivity - 05/20/2024 15:34:14
+Enhanced hash storage management - 05/18/2024 11:35:06
