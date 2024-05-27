@@ -27,3 +27,4 @@ Improved change detection sensitivity - 05/20/2024 15:34:14
 Enhanced hash storage management - 05/18/2024 11:35:06
 Updated hashing optimization - 05/18/2024 10:53:12
 Improved file change detection logic - 05/18/2024 12:28:33
+Added recursive directory scanning - 05/27/2024 15:56:52
